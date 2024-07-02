@@ -1,0 +1,7 @@
+setup.py
+nama_proyek.egg-info/PKG-INFO
+nama_proyek.egg-info/SOURCES.txt
+nama_proyek.egg-info/dependency_links.txt
+nama_proyek.egg-info/entry_points.txt
+nama_proyek.egg-info/requires.txt
+nama_proyek.egg-info/top_level.txt
